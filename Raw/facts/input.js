@@ -1,2 +1,2 @@
 let input = process.argv.slice(2);
-console.log("input is",input);
+console.log("input",input);
